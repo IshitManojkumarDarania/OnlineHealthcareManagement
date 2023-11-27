@@ -1,5 +1,7 @@
-# dbms_project
-Online healthcare mangement system
+# DBMS PROJECT
+Healthcare Mangement DataBase System
+
+
 
 Ishit Darania
 190390
